@@ -1,0 +1,32 @@
+
+
+.title {
+	margin: 20px 0 0 32px;
+}
+
+.subtitle {
+	margin-left: 32px;
+}
+
+.fab-button {
+	margin-top: 15px;
+	margin-left: 32px;
+	width: 50px;
+	margin-bottom: 16px;
+}
+
+.fab-button .btn-description {
+	display: none;
+	position: absolute;
+	bottom: 35%;
+	left: 80%;
+	background-color: #fff;
+	color: #2f2f2f;
+	padding: .5rem;
+	border-radius: 4px;
+}
+
+.fab-button:hover .btn-description{
+	display: block;
+}
+

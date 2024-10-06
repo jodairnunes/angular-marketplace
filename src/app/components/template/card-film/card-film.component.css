@@ -1,0 +1,31 @@
+
+
+.mat-card-container {
+	display: inline-flex;
+	margin-top: 16px;
+}
+
+.card-film {
+	width: 300px;
+	height: 100%;
+	padding: 16px;
+	background-color: rgb(39, 37, 37);
+}
+
+.card-content {
+	text-align: center;
+	padding: 5px;
+}
+
+.card-content img {
+	width: 150px;
+	opacity: 0.8;
+}
+
+.card-content img:hover{
+	opacity: 1;
+}
+
+.card-description {
+	text-align: left;
+}
